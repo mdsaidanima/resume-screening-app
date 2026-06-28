@@ -27,6 +27,13 @@ FEEDBACK_FILE = FEEDBACK_DIR / "feedback_log.json"
 def load_model():
     with open(BASE_DIR / "clf.pkl", "rb") as f:
         svc_model = pickle.load(f)
+
+    # Some serialized SVC models may have probability=True but lack the
+    # internal _effective_probability state required by sklearn predict.
+    if hasattr(svc_model, "probability") and svc_model.probability:
+        if not hasattr(svc_model, "_effective_probability"):
+            svc_model.probability = False
+
     return svc_model
 
 @st.cache_resource
