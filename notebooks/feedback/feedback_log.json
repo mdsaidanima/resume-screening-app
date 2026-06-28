@@ -1,0 +1,44 @@
+[
+  {
+    "timestamp": "2026-04-26T12:39:10.857743",
+    "predicted": "Network Security Engineer",
+    "actual": "Network Security Engineer",
+    "confidence": 19.000957683488156,
+    "correct": true,
+    "notes": ""
+  },
+  {
+    "timestamp": "2026-04-26T12:39:38.350584",
+    "predicted": "Java Developer",
+    "actual": "Java Developer",
+    "confidence": 44.6777328049293,
+    "correct": true,
+    "notes": ""
+  },
+  {
+    "timestamp": "2026-04-26T12:40:41.021068",
+    "predicted": "Automation Testing",
+    "actual": "Automation Testing",
+    "confidence": 37.34430018261579,
+    "correct": true,
+    "notes": ""
+  },
+  {
+    "timestamp": "2026-04-26T13:31:48.261915",
+    "predicted": "PMO",
+    "actual": "PMO",
+    "confidence": 49.85143753326266,
+    "correct": true,
+    "notes": "improve ui"
+  },
+  {
+    "timestamp": "2026-06-28T12:36:27.865256",
+    "predicted": "Web Development",
+    "actual": "Web Development",
+    "confidence": 80.38460511211397,
+    "correct": true,
+    "notes": "",
+    "resume_text": "1 of 1  MOHAMMAD  SAIDANI MA \n Bhimavaram   md.saidanima367@gma il.com   8341252046    Linkedin  Github  \nObjective  \nMotivated B.Tech student in Electronics & Communication Engineering with hands -on experience in manual \ntesting, Java full stack development, and AI -based application development . Skilled in writing test cases, defect \ntracking, UI design, and building responsive applications. Familiar with bug tracking tools. Passionate about \ndelivering high -quality software solutions and user -friendly digital experiences . \nEducation  \nB.Tech \u2013 Electronics & Communication Engineering  \nSRKR Engineering College, Bhimavaram                                                                                                    2023 \u2013 2027  \nCGPA: 8.0  \n Intermediate  Education  \n Star Junior College, Machilipatnam   (Percentage -85%)                                                                     2021 \u2013 2023  \n Secondary School Ce rtificate  \n Nirmala High School, Machilipatnam ( Percentage -97%)                                                                      2021                                                                                    \nSkills  \nProgramming : Java (Basics), Python (Basics), JavaScript  \nFramework : Spring Boot  \nWeb Technologies : HTML, CSS, Responsive Design  \nDatabase : PostgreSQL, SQL  \nTesting : Manual Testing, Test Case Design, Defect Tracking  \nVS Code, IntelliJ IDEA, Antigravity, JIRA, Bugzilla, Chrome DevTools  \nDesign Tools : Figma, Canva \nInternships  \nInfosys Springboard Virtual Internship 6.0  \nAI & Full Stack Development Track | 2025  \nProject: Smart Health & Fitness Companion (WellNest)  \n\u25aa Developed a web -based health & fitness application to track workouts, meals, water intake, sleep, and \nBMI \n\u25aa Implemented JWT authentication  and role-based access  for users and trainers  \n\u25aa Integrated APIs for BMI calculation and daily health tips  \n\u25aa Designed analytics dashboards to visualize health data and goal progress  \n\u25aa Built responsive UI using Java, Spring Boot, HTML, CSS, JavaScript & PostgreSQL  \nProjects  \n \n  OpenCart E -Commerce Manual Testing  \n  Tools : JIRA, Bugzilla, Excel, Chrome DevTools  \n\u25aa Designed and executed test scenarios & test cases for UI and functional testing  \n\u25aa Identified, reported, and tracked defects  \n\u25aa Managed defect lifecycle using JIRA & Bugzilla  \n\u2022 Ensured usability and functional compliance  \n1 of 1   UI Design Web Page  \n Tools:  Figma, Canva  \n\u25aa Designed responsive web layouts using UI/UX principles  \n\u25aa Created interactive prototypes for better user experience  \n\u25aa Applied accessibility and usability best practices . \n \n  Certification s\n \n \n\u25aa Infosys Springboard Virtual Internship 6.0  \n\u25aa Manual Testing Certification \u2013 Udemy  \n\u25aa UI/UX Design Internship  \n\u25aa Java  Fundamental course \u2013 Udemy  \n\u25aa QA testing with AGILE & JIRA -Udemy  \n \n ",
+    "filename": "Mohammad SaidanimaRESUME.pdf"
+  }
+]
